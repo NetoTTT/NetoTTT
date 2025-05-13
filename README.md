@@ -32,7 +32,7 @@ Sou técnico em **Análise e Desenvolvimento de Sistemas**, com mais afinidade e
 
 ### 📌 Alguns dos meus projetos
 
-- 🛡️ **[ChunkProtection](https://github.com/NetoTTT/ChunkProtection)** – Plugin para proteção de terrenos em Minecraft usando SQLite e chunk-based logic
+- 🛡️ **[ChunkProtection]** – Plugin para proteção de terrenos em Minecraft usando SQLite e chunk-based logic
 - 🌐 **Painel de ECG para pets** – Site integrado ao ESP32 e Firebase para monitoramento remoto de sinais vitais
 - 🗂️ **Bloco de notas colaborativo com Firebase** – Editor estilo Notepad com suporte a imagens, tópicos e colaboração em tempo real
 - 🕹️ **Jogos no Roblox** – RTS com mundo persistente e sistema de construção modular com lógica de chunk e salvamento global
