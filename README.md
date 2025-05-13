@@ -41,7 +41,7 @@ Sou técnico em **Análise e Desenvolvimento de Sistemas**, com mais afinidade e
 
 ### 📫 Como me encontrar
 
-- ✉️ Email: lourivalluizdsn@email.com
+- ✉️ Email: lourivalluizdsn@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/lourival-luiz](https://www.linkedin.com/in/lourival-luíz-3b2a96332/) 
 
 ---
