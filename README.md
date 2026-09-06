@@ -10,7 +10,7 @@ Software developer building web, mobile, desktop, and IoT systems — freelance,
 ### Technologies
 
 **Languages:** Java, Kotlin, TypeScript, Rust, Python
-**Backend:** Node.js, Firebase, MySQL
+**Backend:** Node.js, Firebase, MySQL, PostgreSQL 
 **Systems / IoT:** C/C++, ESP32, FreeRTOS
 
 ### Selected Projects
