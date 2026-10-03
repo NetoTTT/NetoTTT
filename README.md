@@ -44,6 +44,14 @@ ESP32 traffic light that prioritizes flow based on real-time lane occupancy.
       <a href="https://github.com/NetoTTT/YTune">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=NetoTTT&amp;repo=YTune&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;text_color=c9d1d9&amp;border_color=30363d" alt="YTune repository" />
       </a>
+      <br />
+      <a href="https://github.com/NetoTTT/Klaver">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=NetoTTT&amp;repo=Klaver&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;text_color=c9d1d9&amp;border_color=30363d" alt="Klaver repository" />
+      </a>
+      <br />
+      <a href="https://github.com/NetoTTT/eximg">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=NetoTTT&amp;repo=eximg&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;text_color=c9d1d9&amp;border_color=30363d" alt="eximg repository" />
+      </a>
     </td>
   </tr>
 </table>
