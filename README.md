@@ -35,4 +35,4 @@ ESP32 traffic light that prioritizes flow based on real-time lane occupancy.
 [LinkedIn](https://www.linkedin.com/in/lourival-luíz-3b2a96332/) · [Email](mailto:lourivalluizdsn@gmail.com)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NetoTTT&size_weight=0.5&count_weight=0.5&langs_count=11&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NetoTTT&size_weight=0.5&count_weight=0.5&langs_count=15&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d)
