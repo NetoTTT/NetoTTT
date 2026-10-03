@@ -37,7 +37,13 @@ ESP32 traffic light that prioritizes flow based on real-time lane occupancy.
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NetoTTT&amp;size_weight=0.5&amp;count_weight=0.5&amp;langs_count=11&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;text_color=c9d1d9&amp;border_color=30363d" alt="Top Languages" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/?username=NetoTTT&amp;show_icons=true&amp;card_width=450&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;text_color=c9d1d9&amp;border_color=30363d" alt="GitHub Stats" /></td>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NetoTTT&amp;size_weight=0.5&amp;count_weight=0.5&amp;langs_count=11&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;text_color=c9d1d9&amp;border_color=30363d" alt="Top Languages" /></td>
+    <td valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/?username=NetoTTT&amp;show_icons=true&amp;card_width=450&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;text_color=c9d1d9&amp;border_color=30363d" alt="GitHub Stats" />
+      <br />
+      <a href="https://github.com/NetoTTT/YTune">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=NetoTTT&amp;repo=YTune&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;text_color=c9d1d9&amp;border_color=30363d" alt="YTune repository" />
+      </a>
+    </td>
   </tr>
 </table>
